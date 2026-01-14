@@ -1,9 +1,7 @@
 # SimpleTask - Daily Planner & Organizer
 
-![Feature Graphic](assets/images/feature_graphic.png)
-
 <div align="center">
-  <img src="assets/icon/icon.png" width="120" height="120"/>
+  <img src="assets/icon/logo_512.png" width="120" height="120"/>
   <h1>SimpleTask</h1>
   <p>
     <strong>Productivity • Tools • Scheduler</strong>
@@ -30,7 +28,6 @@ Aplikasi ini dibuat sebagai pemenuhan **UAS Mata Kuliah Pemrograman Bergerak**.
 
 ## 📸 Screenshots
 
-| Halaman Utama | Form Input | Fitur Sortir |
 |:---:|:---:|:---:|
 | <img src="assets/images/screenshot_1.png" width="200"/> | <img src="assets/images/screenshot_2.png" width="200"/> | 
 
