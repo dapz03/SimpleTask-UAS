@@ -28,7 +28,7 @@ Aplikasi ini dibuat sebagai pemenuhan **UAS Mata Kuliah Pemrograman Bergerak**.
 
 ## 📸 Screenshots
 
-| <img src="assets/images/screenshot_1.png" width="200"/> | <img src="assets/images/screenshot_2.png" width="200"/> | 
+<img src="assets/images/screenshot_1.png" width="200"/> <img src="assets/images/screenshot_2.png" width="200"/> 
 
 ---
 
