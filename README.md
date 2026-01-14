@@ -1,7 +1,7 @@
 # SimpleTask - Daily Planner & Organizer
 
 <div align="center">
-  <img src="assets/icon/logo_512.png" width="120" height="120"/>
+  <img src="assets/images/logo_512.png" width="120" height="120"/>
   <h1>SimpleTask</h1>
   <p>
     <strong>Productivity • Tools • Scheduler</strong>
